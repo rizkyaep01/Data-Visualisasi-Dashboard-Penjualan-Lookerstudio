@@ -77,6 +77,7 @@ Modul ketiga untuk menampilkan data dalam bentuk dashboard interaktif.
 
 - Google Forms → Input data
 - Google Sheets → Database utama
+- Google Studio → Data Visualisasi
 
 ---
 
