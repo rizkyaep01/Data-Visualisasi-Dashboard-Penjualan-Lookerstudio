@@ -1,4 +1,5 @@
 # Dashboard Penjualan (data visualisasi)
+link https://datastudio.google.com/reporting/b60860ce-e12d-46e8-be5a-5748ae922327/page/AkDvF
 
 Sistem sederhana untuk mencatat, menyimpan, dan memvisualisasikan data penjualan secara otomatis menggunakan Google Form, Google Spreadsheet, dan Looker Studio.
 
