@@ -1,4 +1,4 @@
-# 📊 Dashboard Penjualan System
+# Dashboard Penjualan (data visualisasi)
 
 Sistem sederhana untuk mencatat, menyimpan, dan memvisualisasikan data penjualan secara otomatis menggunakan Google Form, Google Spreadsheet, dan Looker Studio.
 
@@ -76,7 +76,6 @@ Modul ketiga untuk menampilkan data dalam bentuk dashboard interaktif.
 
 - Google Forms → Input data
 - Google Sheets → Database utama
-- :contentReference[oaicite:1]{index=1} → Visualisasi dashboard
 
 ---
 
